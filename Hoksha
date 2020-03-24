@@ -1,0 +1,68 @@
+<HTML>
+<HEAD>
+<META NAME="GENERATOR" Content="Microsoft Visual Studio 8.0">
+<link rel="stylesheet" type="text/css" href="styles.css">    
+<TITLE>Hoksha wep page</TITLE>
+   
+
+    </Head>    
+    
+    <style>
+        .bk{
+            
+            font-size: 14pt;
+            
+        }
+        .marg{
+            
+            margin: 50px;
+            
+        }
+    
+    
+    </style>
+    
+<BODY>
+    <div class="bgimage">
+        <div id="area">
+            .<br>
+        <a href="https://www.facebook.com/Hoksha.AlAhly" target="_blank"><b><div class="bk">Facebook Account</div></b></a>
+            <div class="pad">
+            <b>Be Able</b>
+            
+            </div>
+        
+        </div>
+        
+        
+        .<br>
+        .<br>
+        .<br>
+        .<br>
+        .<br>
+        <form >
+            <div class="marg">
+            <i class="stylee">Enter the Date : </i><br>
+           <b> <input type="date"><br></b> 
+            <i class="stylee">Enter the user name  : </i><br>
+        <input type="text"><br>
+            <i class="stylee">Enter the password : </i><br>
+            <input type="password">
+        </div>
+        
+        
+        </form>
+        <br>
+        .<br>
+        .<br>
+        .<br>
+        .<br>
+                .<br>
+        .<br>
+        .<br>
+        .<br><br><br><br><br><br><br><br><br><br><br>
+        
+    
+
+</BODY>
+</HTML>
